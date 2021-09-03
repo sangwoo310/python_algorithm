@@ -1,28 +1,15 @@
-# d = []
-#
-# def dNum(num: int) -> int:
-#     spList = list(map(int, num.__str__()))
-#     return num + sum(spList)
-#
-# baseNum = 1
-# while baseNum < 100:
-#     baseNum = dNum(baseNum)
-#     # print(baseNum)
-#     d.append(baseNum)
-#     dNum(baseNum)
-#
-# print(d)
+d = []
 
-# for i in range(100):
-#     baseNum = dNum(i+1)
-#     # print(baseNum)
-#     if baseNum <= 10000 and d.count(baseNum) == 0:
-#         d.append(i)
-#
-# print(d)
-# print(dNum(1))
+def dNum(num: int) -> int:
+    spList = list(map(int, num.__str__()))
+    return num + sum(spList)
 
-for i in range(1, 100):
-    for j in str(i):
-        i += int(j)
-    print(i)
+for i in range(1, 10001):
+    k = dNum(i)
+    d.append(k)
+
+for i in range(1, 10001):
+    if i in d:
+        pass
+    else:
+        print(i)

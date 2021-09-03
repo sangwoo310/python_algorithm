@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12e6f1fb-7762-415c-acda-e20b97fd855b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/baekjoon/arrangement/aboveAverage_4344.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/arrangement/average_1546.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/arrangement/max_2562.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/arrangement/minMax_10818.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/arrangement/numberCount_2577.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/arrangement/oxQuiz_8958.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/arrangement/remainder_3052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/function/selfNumbers_4673.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/function/sumOfIntegerN_15596.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/function/arithmeticSequence_1065.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon/function/selfNumbers_4673.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/function/selfNumbers_4673.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,10 +19,11 @@
     <SUITE FILE_PATH="coverage/python_algorithm$min_max.coverage" NAME="min_max Coverage Results" MODIFIED="1630305375621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/arrangement" />
     <SUITE FILE_PATH="coverage/python_algorithm$average_1546.coverage" NAME="average_1546 Coverage Results" MODIFIED="1630389079102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/arrangement" />
     <SUITE FILE_PATH="coverage/python_algorithm$NumberCount_2577.coverage" NAME="NumberCount_2577 Coverage Results" MODIFIED="1630307104387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/arrangement" />
-    <SUITE FILE_PATH="coverage/python_algorithm$selfNumbers_4673.coverage" NAME="selfNumbers_4673 Coverage Results" MODIFIED="1630399755458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/function" />
+    <SUITE FILE_PATH="coverage/python_algorithm$selfNumbers_4673.coverage" NAME="selfNumbers_4673 Coverage Results" MODIFIED="1630655917856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/function" />
     <SUITE FILE_PATH="coverage/python_algorithm$max_2562.coverage" NAME="max_2562 Coverage Results" MODIFIED="1630306141195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/arrangement" />
     <SUITE FILE_PATH="coverage/python_algorithm$aboveAverage_4344.coverage" NAME="aboveAverage_4344 Coverage Results" MODIFIED="1630391616772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/arrangement" />
     <SUITE FILE_PATH="coverage/python_algorithm$oxQuiz_8958.coverage" NAME="oxQuiz_8958 Coverage Results" MODIFIED="1630389635598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/arrangement" />
+    <SUITE FILE_PATH="coverage/python_algorithm$arithmeticSequence_1065.coverage" NAME="arithmeticSequence_1065 Coverage Results" MODIFIED="1630661049627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/function" />
   </component>
   <component name="FileEditorManager">
     <leaf>
@@ -41,11 +36,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baekjoon/arrangement/max_2562.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" lean-forward="true" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/baekjoon/function/selfNumbers_4673.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+            <state relative-caret-position="190">
+              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/baekjoon/function/arithmeticSequence_1065.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -58,6 +71,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -77,14 +95,14 @@
         <option value="$PROJECT_DIR$/baekjoon/arrangement/aboveAverage_4344.py" />
         <option value="$PROJECT_DIR$/baekjoon/function/sumOfIntegerN_15596.py" />
         <option value="$PROJECT_DIR$/baekjoon/function/selfNumbers_4673.py" />
+        <option value="$PROJECT_DIR$/baekjoon/function/arithmeticSequence_1065.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-2539" />
-    <option name="y" value="-7" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="-3448" />
+    <option name="width" value="3456" />
+    <option name="height" value="1416" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -103,6 +121,12 @@
               <item name="python_algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
+              <item name="arrangement" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -135,7 +159,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.selfNumbers_4673">
+  <component name="RunManager" selected="Python.arithmeticSequence_1065">
     <configuration name="aboveAverage_4344" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,6 +174,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/arrangement/aboveAverage_4344.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="arithmeticSequence_1065" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/function" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/function/arithmeticSequence_1065.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,28 +248,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="remainder_3052" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/arrangement" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/arrangement/remainder_3052.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="selfNumbers_4673" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -248,11 +272,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.arithmeticSequence_1065" />
         <item itemvalue="Python.selfNumbers_4673" />
         <item itemvalue="Python.aboveAverage_4344" />
         <item itemvalue="Python.oxQuiz_8958" />
         <item itemvalue="Python.average_1546" />
-        <item itemvalue="Python.remainder_3052" />
       </list>
     </recent_temporary>
   </component>
@@ -266,12 +290,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1630303236648</updated>
-      <workItem from="1630303237859" duration="14842000" />
+      <workItem from="1630303237859" duration="21164000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14842000" />
+    <option name="totallyTimeSpent" value="21164000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3448" y="0" width="3456" height="1416" extended-state="6" />
@@ -313,13 +337,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/baekjoon/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baekjoon/arrangement/max_2562.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" lean-forward="true" selection-end-line="6" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/baekjoon/arrangement/numberCount_2577.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -370,10 +387,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/arrangement/max_2562.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/baekjoon/function/selfNumbers_4673.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+        <state relative-caret-position="190">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/function/arithmeticSequence_1065.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
         </state>
       </provider>
     </entry>

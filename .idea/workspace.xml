@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12e6f1fb-7762-415c-acda-e20b97fd855b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/baekjoon/function/arithmeticSequence_1065.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/recursive/factorial_10872.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/recursive/fibonacciSequence_10870.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/recursive/star_2447.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/function/selfNumbers_4673.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/function/selfNumbers_4673.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,13 +15,16 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/python_algorithm$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1630303382097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon" />
+    <SUITE FILE_PATH="coverage/python_algorithm$star_2447.coverage" NAME="star_2447 Coverage Results" MODIFIED="1630920247667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/recursive" />
+    <SUITE FILE_PATH="coverage/python_algorithm$fibonacciSequence_10870.coverage" NAME="fibonacciSequence_10870 Coverage Results" MODIFIED="1630911726172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/recursive" />
+    <SUITE FILE_PATH="coverage/python_algorithm$max_2562.coverage" NAME="max_2562 Coverage Results" MODIFIED="1630306141195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/arrangement" />
     <SUITE FILE_PATH="coverage/python_algorithm$test.coverage" NAME="test Coverage Results" MODIFIED="1630303254618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/python_algorithm$remainder_3052.coverage" NAME="remainder_3052 Coverage Results" MODIFIED="1630388600398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/arrangement" />
     <SUITE FILE_PATH="coverage/python_algorithm$min_max.coverage" NAME="min_max Coverage Results" MODIFIED="1630305375621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/arrangement" />
     <SUITE FILE_PATH="coverage/python_algorithm$average_1546.coverage" NAME="average_1546 Coverage Results" MODIFIED="1630389079102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/arrangement" />
+    <SUITE FILE_PATH="coverage/python_algorithm$factorial_10872.coverage" NAME="factorial_10872 Coverage Results" MODIFIED="1630906361343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/recursive" />
     <SUITE FILE_PATH="coverage/python_algorithm$NumberCount_2577.coverage" NAME="NumberCount_2577 Coverage Results" MODIFIED="1630307104387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/arrangement" />
     <SUITE FILE_PATH="coverage/python_algorithm$selfNumbers_4673.coverage" NAME="selfNumbers_4673 Coverage Results" MODIFIED="1630655917856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/function" />
-    <SUITE FILE_PATH="coverage/python_algorithm$max_2562.coverage" NAME="max_2562 Coverage Results" MODIFIED="1630306141195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/arrangement" />
     <SUITE FILE_PATH="coverage/python_algorithm$aboveAverage_4344.coverage" NAME="aboveAverage_4344 Coverage Results" MODIFIED="1630391616772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/arrangement" />
     <SUITE FILE_PATH="coverage/python_algorithm$oxQuiz_8958.coverage" NAME="oxQuiz_8958 Coverage Results" MODIFIED="1630389635598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/arrangement" />
     <SUITE FILE_PATH="coverage/python_algorithm$arithmeticSequence_1065.coverage" NAME="arithmeticSequence_1065 Coverage Results" MODIFIED="1630661049627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baekjoon/function" />
@@ -28,37 +32,28 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/baekjoon/function/sumOfIntegerN_15596.py">
+        <entry file="file://$PROJECT_DIR$/baekjoon/recursive/factorial_10872.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+            <state relative-caret-position="152">
+              <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/baekjoon/arrangement/max_2562.py">
+        <entry file="file://$PROJECT_DIR$/baekjoon/recursive/fibonacciSequence_10870.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" lean-forward="true" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/baekjoon/function/selfNumbers_4673.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            <state relative-caret-position="152">
+              <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/baekjoon/function/arithmeticSequence_1065.py">
+        <entry file="file://$PROJECT_DIR$/baekjoon/recursive/star_2447.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+            <state relative-caret-position="475">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -96,6 +91,9 @@
         <option value="$PROJECT_DIR$/baekjoon/function/sumOfIntegerN_15596.py" />
         <option value="$PROJECT_DIR$/baekjoon/function/selfNumbers_4673.py" />
         <option value="$PROJECT_DIR$/baekjoon/function/arithmeticSequence_1065.py" />
+        <option value="$PROJECT_DIR$/baekjoon/recursive/factorial_10872.py" />
+        <option value="$PROJECT_DIR$/baekjoon/recursive/fibonacciSequence_10870.py" />
+        <option value="$PROJECT_DIR$/baekjoon/recursive/star_2447.py" />
       </list>
     </option>
   </component>
@@ -126,13 +124,7 @@
               <item name="python_algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
-              <item name="arrangement" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
-              <item name="function" type="462c0819:PsiDirectoryNode" />
+              <item name="recursive" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -159,29 +151,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.arithmeticSequence_1065">
-    <configuration name="aboveAverage_4344" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/arrangement" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/arrangement/aboveAverage_4344.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.star_2447">
     <configuration name="arithmeticSequence_1065" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -204,7 +174,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="average_1546" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="factorial_10872" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -212,12 +182,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/arrangement" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/recursive" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/arrangement/average_1546.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/recursive/factorial_10872.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,7 +196,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="oxQuiz_8958" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="fibonacciSequence_10870" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -234,12 +204,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/arrangement" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/recursive" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/arrangement/oxQuiz_8958.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/recursive/fibonacciSequence_10870.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,13 +240,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="star_2447" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/recursive" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/recursive/star_2447.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.star_2447" />
+        <item itemvalue="Python.fibonacciSequence_10870" />
+        <item itemvalue="Python.factorial_10872" />
         <item itemvalue="Python.arithmeticSequence_1065" />
         <item itemvalue="Python.selfNumbers_4673" />
-        <item itemvalue="Python.aboveAverage_4344" />
-        <item itemvalue="Python.oxQuiz_8958" />
-        <item itemvalue="Python.average_1546" />
       </list>
     </recent_temporary>
   </component>
@@ -290,12 +282,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1630303236648</updated>
-      <workItem from="1630303237859" duration="21164000" />
+      <workItem from="1630303237859" duration="28742000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21164000" />
+    <option name="totallyTimeSpent" value="28742000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3448" y="0" width="3456" height="1416" extended-state="6" />
@@ -403,8 +395,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/baekjoon/function/arithmeticSequence_1065.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        <state relative-caret-position="418">
+          <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/recursive/factorial_10872.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/recursive/fibonacciSequence_10870.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/recursive/star_2447.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="26" />
         </state>
       </provider>
     </entry>
